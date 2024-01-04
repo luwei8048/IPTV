@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/b7/896bc815db9560eabbcb4a227f62ba_180_135.jpg?1416387967&466203" group-title="英雄联盟",虎牙---卡尔
-http://luwei.cf:35455/huya/kaerlol
-
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/83/2aa2f6905fe4382221d08b66d7cdcb_180_135.jpg?1410599038&466203" group-title="英雄联盟",虎牙---胖炸
-http://luwei.cf:35455/huya/baozha
-
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg/vdy1" group-title="PDD",斗鱼---PDD
-http://luwei.cf:35455/douyu/101
-
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201609/08/f6c0c08a3f3cb1fd074fe38907ae2508_big.jpg/vdy1"group-title="英雄联盟",芜湖大司马丶
-http://luwei.cf:35455/douyu/606118
-
-#EXTINF:-1 tvg-logo="https://sta-op.douyucdn.cn/vod-cover/2022/12/22/04b776b5960ee1a85cb64d7981d83ff6.png/vdy1" group-title="热门游戏",一条小团团OvO
-http://luwei.cf:35455/douyu/2222
-
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/16b8db8d3ed74a06bafed083902ae0af_big.jpg/vdy1" group-title="DNF",斗鱼---KPL
 http://luwei.cf:35455/douyu/1863767
 #EXTINF:-1 tvg-id="ABNChina.us" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",ABN China (720p)
